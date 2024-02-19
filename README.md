@@ -1,5 +1,5 @@
 **Modeling Scripts:**
-_part2_partition_function_model_alignment.py_: Script for alignment of guide and target sequences to predict the binding register prior to model fitting. Parameters for alignment are estimated from single mismatch penalties. 
+_align_guide_target_seqs.py_: Script for alignment of guide and target sequences to predict the binding register prior to model fitting. Parameters for alignment are estimated from single mismatch penalties. 
 
 **Parameter Fitting Scripts:**
 _fitOnRates.py_: Fits association rates to RNA-MaP data. 
